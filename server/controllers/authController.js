@@ -80,7 +80,7 @@ exports.uploadAvatar = (req, res) => {
     return res.status(400).json({ error: 'No file uploaded' });
   }
   
-  const avatarUrl = `http://localhost:5001/uploads/avatars/${req.file.filename}`;
+  const avatarUrl = `/uploads/avatars/${req.file.filename}`;
   res.json({ avatarUrl });
 };
 
