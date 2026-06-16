@@ -1,0 +1,8 @@
+{
+  "name": "echo-player",
+  "version": "1.0.0",
+  "description": "Echo Player - Music for every mood",
+  "scripts": {
+    "echo": "npx concurrently \"npm start --prefix server\" \"npm run dev --prefix client\""
+  }
+}

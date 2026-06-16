@@ -1,0 +1,23 @@
+[
+  {
+    "id": "song1",
+    "title": "SoundHelix Song 1",
+    "artist": "T. Schürger",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&q=80"
+  },
+  {
+    "id": "song2",
+    "title": "SoundHelix Song 2",
+    "artist": "T. Schürger",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&q=80"
+  },
+  {
+    "id": "song3",
+    "title": "SoundHelix Song 3",
+    "artist": "T. Schürger",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1493225457124-a1a2a5f5f458?w=500&q=80"
+  }
+]

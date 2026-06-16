@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1780044141166",
+    "email": "rtxgaming7891@gmail.com",
+    "password": "78910",
+    "name": "ANKUSH",
+    "avatar": "http://localhost:5001/uploads/avatars/1780044696066-wallpaperflare.com_wallpaper.jpg",
+    "isPremium": true,
+    "followers": 36,
+    "following": 490,
+    "listeningTime": 317
+  },
+  {
+    "id": "1780128980729",
+    "email": "ankushchoudhary640@gmail.com",
+    "password": "12345",
+    "name": "ankush",
+    "avatar": "http://localhost:5001/uploads/avatars/1781269565554-wallpaperflare.com_wallpaper (1).jpg",
+    "isPremium": true,
+    "followers": 267,
+    "following": 60,
+    "listeningTime": 65,
+    "likedSongs": [],
+    "playlists": []
+  }
+]
