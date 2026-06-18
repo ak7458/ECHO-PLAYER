@@ -35,7 +35,7 @@ const mapTrack = (song) => {
     imageUrl: song.image ? song.image.replace('150x150', '500x500') : 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=500&q=80',
     duration: song.duration ? parseInt(song.duration) : 200, // in seconds
     // src will be fetched when played
-    src: `http://localhost:5001/api/music/stream/${song.id}`,
+    src: `https://echo-player-backend.onrender.com/api/music/stream/${song.id}`,
     isLocal: false
   };
 };
