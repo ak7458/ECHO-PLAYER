@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EchoPlayer</string>
+    <string name="title_activity_main">EchoPlayer</string>
+    <string name="package_name">com.echoplayer.app</string>
+    <string name="custom_url_scheme">com.echoplayer.app</string>
+</resources>

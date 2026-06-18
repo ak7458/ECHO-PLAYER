@@ -1,0 +1,5 @@
+{
+  "appId": "com.echoplayer.app",
+  "appName": "EchoPlayer",
+  "webDir": "www", "server": { "url": "https://echo-player-new.vercel.app", "cleartext": true }
+}
